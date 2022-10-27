@@ -11,7 +11,7 @@
 
 | STT | MSSV       |Họ và tên       | Email                |University                                               |
 | ----|:----------:|----------------|----------------------|-----------------------------------------------------|
-| 1   | 19511901   | Nguyễn Nhật Hiếu |nguyennhathieu1508@gmail.com|Industryal University of Thanh Pho Ho Chi Minh|
+| 1   | 19511901   | Nguyễn Nhật Hiếu |nguyennhathieu1508@gmail.com|Industrial University of Thanh Pho Ho Chi Minh|
 
 ## Thông tin Đồ án
 

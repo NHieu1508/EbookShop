@@ -15,7 +15,7 @@
 
 ## Thông tin Đồ án
 
-* ***Tên bài tập:*** Xây dựng website bán sách. Tìm hiểu QRcode,Api login và tích hợp thanh toán VNpay
+* ***Tên đồ án:*** Xây dựng website bán sách. Tìm hiểu QRcode,Api login và tích hợp thanh toán VNpay
 * ***Công cụ:*** HTML, CSS, JavaScript, PHP
 
    

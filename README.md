@@ -17,5 +17,7 @@
 
 * ***Tên đồ án:*** Xây dựng website bán sách. Tìm hiểu QRcode,Api login và tích hợp thanh toán VNpay
 * ***Công cụ:*** HTML, CSS, JavaScript, PHP
-
+* ***Mô tả:*** Xây dựng website thương mại điện tử theo mô hình MVC. Gồm các chức năng cơ bản sau:
+   - **Khách hàng:** Đăng nhập, đăng ký, đăng xuất, sửa thông tin cá nhân, đặt hàng, thanh toán, xem chi tiết đơn hàng, chi tiết sản phẩm,...
+   - **Admin:** Quản lý khách hàng, sản phẩm, loại sản phẩm, đơn hàng,...
    
